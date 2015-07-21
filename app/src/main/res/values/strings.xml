@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatWhat</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="layout_linear_hor">LinearHorizontal</string>
+    <string name="layout_linear_vert">LinearVertical</string>
+    <string name="layout_grid_hor">GridHorizontal</string>
+    <string name="layout_grid_vert">GridVertical</string>
+</resources>

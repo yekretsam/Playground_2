@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:title="@string/layout_linear_vert"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/layout_linear_hor"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/layout_grid_vert"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/layout_grid_hor"
+        app:showAsAction="never" />
+</menu>
